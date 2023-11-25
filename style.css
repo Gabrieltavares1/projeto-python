@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #d30101;
+    padding-top: 50px;
+    color: #030303; /* Alterei a cor do texto para preto */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.result {
+    background-color: #e30a0a;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #ff0000;
+    border-color: #ff0000;
+}
+
+.btn-primary:hover {
+    background-color: #b30000;
+    border-color: #b30000;
+}
